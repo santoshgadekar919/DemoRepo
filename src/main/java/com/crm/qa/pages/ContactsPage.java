@@ -51,5 +51,6 @@ public class ContactsPage extends TestBase {
 		selectContacts(name);
 		Exportbtn.click();
 		OkBtn.click();
+		System.out.println("Hello Demo of GIT repository");
 	}
 }
